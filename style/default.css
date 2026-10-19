@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #ffe;
+  background: rgba(230, 177, 202, 0.989);
   font-size: 17px;
   color: #231f20;
   overflow: auto;
